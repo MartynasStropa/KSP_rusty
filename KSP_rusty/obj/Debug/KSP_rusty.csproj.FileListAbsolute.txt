@@ -1,0 +1,9 @@
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\bin\Debug\KSP_rusty.dll
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\bin\Debug\KSP_rusty.pdb
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\bin\Debug\Assembly-CSharp-firstpass.dll
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\bin\Debug\TDx.TDxInput.dll
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\bin\Debug\TrackIRUnity.dll
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\bin\Debug\Mono.Cecil.dll
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\obj\Debug\KSP_rusty.csprojResolveAssemblyReference.cache
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\obj\Debug\KSP_rusty.dll
+D:\projects\KSP_rusty\KSP_rusty\KSP_rusty\obj\Debug\KSP_rusty.pdb
